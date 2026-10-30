@@ -81,7 +81,7 @@ const SITE = {
       role: "Gameplay programmer & pixel artist (team of 3)",
       tools: ["Unity", "C#", "Aseprite", "Git"],
       duration: "48-hour game jam",
-      cover: "assets/project-2-cover.png",
+      cover: "assets/projects/project-2-cover.png",
       coverAlt: "Pixel-art meadow with two green slimes, a hero and a red mushroom",
       media: { type: "image", src: "assets/projects/project-2-cover.png", alt: "Gameplay of Gloop Rush" },
       pixel: true,
