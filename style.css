@@ -236,7 +236,7 @@ section[id], #top { scroll-margin-top: var(--header-h); }
 .sprite {
   position: absolute; left: 50%; bottom: 22%;
   width: 128px; height: 128px; margin-left: -64px;
-  background: url("assets/images/hero-sprite.png") 0 0 / 512px 128px no-repeat;
+  background: url("assets/hero-sprite.png") 0 0 / 512px 128px no-repeat;
   z-index: 1;
   /* two loops: the 4-frame sheet + a slow 1-pixel idle bob */
   animation: sprite-idle .9s steps(4) infinite, sprite-bob 1.8s steps(1, end) infinite;
