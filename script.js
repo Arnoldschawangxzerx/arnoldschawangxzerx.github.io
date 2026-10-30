@@ -59,9 +59,9 @@ const SITE = {
       role: "Solo developer: programming, art, level design",
       tools: ["Unity", "C#", "Aseprite", "URP 2D Lights"],
       duration: "6 weeks",
-      cover: "assets/images/projects/project-1-cover.png",
+      cover: "assets/projects/project-1-cover.png",
       coverAlt: "Pixel-art scene: a hooded hero stands on a dark hillside at sunset beside floating coins",
-      media: { type: "image", src: "assets/images/projects/project-1-cover.png", alt: "Gameplay of Lantern Hollow" },
+      media: { type: "image", src: "assets/projects/project-1-cover.png", alt: "Gameplay of Lantern Hollow" },
       // e.g. media: { type: "image", src: "assets/images/projects/project-1.gif", alt: "…" },
       pixel: true,
       summary:
@@ -81,7 +81,7 @@ const SITE = {
       role: "Gameplay programmer & pixel artist (team of 3)",
       tools: ["Unity", "C#", "Aseprite", "Git"],
       duration: "48-hour game jam",
-      cover: "assets/images/projects/project-2-cover.png",
+      cover: "assets/project-2-cover.png",
       coverAlt: "Pixel-art meadow with two green slimes, a hero and a red mushroom",
       media: { type: "image", src: "assets/images/projects/project-2-cover.png", alt: "Gameplay of Gloop Rush" },
       pixel: true,
@@ -102,7 +102,7 @@ const SITE = {
       role: "Programmer & 3D artist (university project)",
       tools: ["Unity", "C#", "Blender", "Shader Graph"],
       duration: "3 months",
-      cover: "assets/images/projects/project-3-cover.png",
+      cover: "assets/projects/project-3-cover.png",
       coverAlt: "Pixel-art blue sky over the sea with a hero, a treasure chest and a potion",
       media: { type: "image", src: "assets/images/projects/project-3-cover.png", alt: "Gameplay of Paper Tide" },
       // e.g. media: { type: "youtube", src: "YOUR_VIDEO_ID", alt: "Paper Tide trailer" },
@@ -124,12 +124,12 @@ const SITE = {
      crisply. Square images look best. Add as many as you like. */
   gallery: [
     // ⚠ SAMPLE ART — replace with your own pieces
-    { src: "assets/images/gallery/potion.png", title: "Ember Potion", note: "16×16 item sprite, 12-colour palette.", alt: "Pixel-art red potion bottle with a gold cork" },
-    { src: "assets/images/gallery/slime.png", title: "Meadow Slime", note: "Enemy sprite for Gloop Rush.", alt: "Pixel-art green slime with two small eyes" },
-    { src: "assets/images/gallery/mushroom.png", title: "Toadstool", note: "Environment prop study.", alt: "Pixel-art red mushroom with white spots" },
-    { src: "assets/images/gallery/chest.png", title: "Treasure Chest", note: "Interactable prop with gold trim.", alt: "Pixel-art orange treasure chest with a gold lock" },
-    { src: "assets/images/gallery/tree.png", title: "Old Oak", note: "Tileset tree, two-tone shading.", alt: "Pixel-art round green tree with a brown trunk" },
-    { src: "assets/images/gallery/coin.png", title: "Gold Coin", note: "Collectible, first frame of a spin cycle.", alt: "Pixel-art shiny gold coin" },
+    { src: "assets/gallery/potion.png", title: "Ember Potion", note: "16×16 item sprite, 12-colour palette.", alt: "Pixel-art red potion bottle with a gold cork" },
+    { src: "assets/gallery/slime.png", title: "Meadow Slime", note: "Enemy sprite for Gloop Rush.", alt: "Pixel-art green slime with two small eyes" },
+    { src: "assets/gallery/mushroom.png", title: "Toadstool", note: "Environment prop study.", alt: "Pixel-art red mushroom with white spots" },
+    { src: "assets/gallery/chest.png", title: "Treasure Chest", note: "Interactable prop with gold trim.", alt: "Pixel-art orange treasure chest with a gold lock" },
+    { src: "assets/gallery/tree.png", title: "Old Oak", note: "Tileset tree, two-tone shading.", alt: "Pixel-art round green tree with a brown trunk" },
+    { src: "assets/gallery/coin.png", title: "Gold Coin", note: "Collectible, first frame of a spin cycle.", alt: "Pixel-art shiny gold coin" },
   ],
 
   /* ---------- SKILLS (plain tags — no fake percentage bars) ---------- */
