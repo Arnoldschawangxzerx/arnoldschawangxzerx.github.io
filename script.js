@@ -23,7 +23,7 @@ const SITE = {
 
   email: "aaryanhussain029@gmail.com",
   cvFile: "assets/cv/Aaryan-CV.pdf", // ⚠ SAMPLE file — replace with your real CV
-  avatar: "assets/images/avatar-placeholder.png", // ⚠ SAMPLE — e.g. "assets/images/avatar.png"
+  avatar: "assets/avatar-placeholder.png", // ⚠ SAMPLE — e.g. "assets/images/avatar.png"
   avatarAlt: "Pixel-art avatar of Aaryan",
 
   // About section — each string becomes its own paragraph
