@@ -83,7 +83,7 @@ const SITE = {
       duration: "48-hour game jam",
       cover: "assets/project-2-cover.png",
       coverAlt: "Pixel-art meadow with two green slimes, a hero and a red mushroom",
-      media: { type: "image", src: "assets/images/projects/project-2-cover.png", alt: "Gameplay of Gloop Rush" },
+      media: { type: "image", src: "assets/projects/project-2-cover.png", alt: "Gameplay of Gloop Rush" },
       pixel: true,
       summary:
         "Made for a weekend game jam with two teammates. I owned the slime behaviour and all character art, and we shipped a complete, playable build before the deadline.",
