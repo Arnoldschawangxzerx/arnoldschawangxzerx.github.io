@@ -124,7 +124,7 @@ const SITE = {
      crisply. Square images look best. Add as many as you like. */
   gallery: [
     // ⚠ SAMPLE ART — replace with your own pieces
-    { src: "assets/gallery/potion.png", title: "Ember Potion", note: "16×16 item sprite, 12-colour palette.", alt: "Pixel-art red potion bottle with a gold cork" },
+    { src: "assets/gallery/Sofa_16x16.png", title: "Sofa", note: "16×16 item sprite, 12-colour palette.", alt: "Pixel-art maroon Sofa" },
     { src: "assets/gallery/slime.png", title: "Meadow Slime", note: "Enemy sprite for Gloop Rush.", alt: "Pixel-art green slime with two small eyes" },
     { src: "assets/gallery/mushroom.png", title: "Toadstool", note: "Environment prop study.", alt: "Pixel-art red mushroom with white spots" },
     { src: "assets/gallery/chest.png", title: "Treasure Chest", note: "Interactable prop with gold trim.", alt: "Pixel-art orange treasure chest with a gold lock" },
